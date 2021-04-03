@@ -1,0 +1,127 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2578
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Palatino-Bold;\f1\froman\fcharset0 Palatino-Roman;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{hyphen\}}{\leveltext\leveltemplateid1\'01\uc0\u8259 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\pard\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi360\sl264\slmult1\pardirnatural\partightenfactor0
+
+\f0\b\fs26 \cf0 Introduction
+\f1\b0 \
+- efectnivness of macro prudential policy remains unanswered\
+- most only use dummy variables \
+-endogeneity is a problem \'97> biased estimate\
+
+\f0\b Key features of the database
+\f1\b0 \
+- database includes: dummy type indices of tightening and loosening actions for 17 macro prudential policy instruments; description of each policy action; country level averages od the regulatory limits of LTV (monthly)\
+- macroprudental policy can intervene with other policies\
+
+\f0\b Granular Policy Action Indices
+\f1\b0 \
+- dummy-type policy takes a value of 1 for tightening action, -1 for loosening actions and zero for no change \
+
+\f0\b Average LTV Limits\
+
+\f1\b0 - LTV one of the most widely used macroprudential instruments \
+- focus on real estate mortgage loans\
+-simple average of regulatory LTV limits of all existing categories in that country \
+- average LTV limit series informs about the intensity of a policy change\
+- series provides information on the level of regulatory LTV limits\
+- enables further examination of possible nonlinear effects\
+- LTV limit series may overstate the importance of LTV limits \
+
+\f0\b How has Macroprudential Policy been used?
+\f1\b0 \
+- LTV limits most popular in advanced economies \
+- limits on foreign exchange most popular in emerging market and developing economies\
+- AE more concerned about housing sector \
+-EMDE more exposed to vulnerabilities from external shocks (volatile capital flow and potential systemic risk triggered by sharp changed in exchange route)\
+- popular in both are: capital requirements, LTV limits and liquidity requirements\
+
+\f0\b Emperical Strategy and Specifications
+\f1\b0 \
+- which macro prudential instrument has more potent effects in dampening household credit growth and house price increases \
+- IMaPP database enables a comparison of the relative effects of different instruments (demand vs supply side; sector specific vs general)\
+-also asses side effects of these measures in terms of dampening consumption growth and the growth of GDP\
+- policy change indicator (dummy) is cumulated over the past four quarters (and decided by 4) to account for potential lagged effects\
+- because many tools are similar, they consider indices for instrument groups: all, loan targeted, demand and supply measures and these are divide in general, capital and loan-supply tools\
+- identification of macro prudential policy is based on a timing assumptio: macro prudential policy does not affect macro-financial variables (like credit growth) within the same quarter (MAPP coefficient is there if the assumption doesnt hold)\
+
+\f0\b The Effects of Policy Actions
+\f1\b0 \
+-impact on household credit growth\
+- wenn man policy tighter macht \'97> household credit raises (moderates)\
+- also impact house prices ( but it is in this case weaker)\
+
+\f0\b Robustness Checks
+\f1\b0 \
+- reasons for a biased estimate\
+- estimated policy effects would be biased towards zero in the presence of reverse causality if the timing assumption of no contemporaneous policy effects did not hold\
+
+\f0\b Propensity-Score Based Approach
+\f1\b0 \
+- empirical challenge in identifying the causal effects of macro prudential policy is reverse causality \'97> can lead to endogeneity biases \
+- reverse causality could be because LTV limits are more likely to be tightened during periods of high credit growth \
+- the IPW estimator identifies the causal effects of macro prudential policy by penalising those observations that are likely to be effected by reverse causality \
+
+\f0\b Do Initial LTV Levels Matter ?\
+
+\f1\b0 -ltv limits could have different impacts depending on whether the starting level of the ltv ratio cap is lose or already tight \
+
+\f0\b Conclusion
+\f1\b0 \
+\pard\tx220\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\li720\fi-720\sl264\slmult1\pardirnatural\partightenfactor0
+\ls1\ilvl0\cf0 - nonlinear effects on household credit of LTV changes \
+\ls1\ilvl0
+\f0\b Appendix 2
+\f1\b0 \
+- Countercyclical Buffere\
+-Conservation\
+- Capital Requirements\
+-Leverage Limits (LVR)\
+- Loan Loss Provisions (LLP)\
+-Limit on Credit Growth (LCG) \
+Loan Restrictions (LoanR)\
+- Limits on Foreign Currency (LFC) \
+-\'85\
+\ls1\ilvl0
+\f0\b Constructing the average LTV Limit \
+\ls1\ilvl0
+\f1\b0 - for the periods prior to the introduction thy set the value at 100, so the treatment correctly suggest a tightening \
+- simple of regulatory LTV limits reflects changes in all categories \
+\ls1\ilvl0
+\f0\b Appendix 3\
+\ls1\ilvl0
+\f1\b0 -previous studies typically use the timing assumption of no contemporaneous policy effects  means that macro prudential policy does not effect macro-financial variables within the same quarter this can lead to an attenuation bias\
+\ls1\ilvl0
+\f0\b Appendix 4\
+\ls1\ilvl0
+\f1\b0 -panel regression in section 3\
+- Mapp variables used in section 3 are the average of the net number of policy tightening over the current and the past three quarters to account for potential delayed effects \
+- they are constructed foe individual instruments and for groups of instruments \
+- \'93loan-targegeted\'94 group consists of the demand and the supply-loans instruments\
+-Demand intruments= LTV,DSTI\
+-supply loans= LCG, LLP, LoanR, limits to the loan to deposit ratio, limits to foreign currency loans \
+- supply general instruments= reserve requirements, liquidity requirements, and limits to FX positions\
+- supply capital instruments= LVR, CCB\
+-MAPP index= the sum of the dummies for all 17 categories \
+\ls1\ilvl0
+\f0\b Appendix 5\
+\ls1\ilvl0
+\f1\b0 System GMM results 
+\f0\b \
+\ls1\ilvl0
+\f1\b0 - inclusion of a lag of the dependent variable may lead to biased estimates \
+- as a robustness exercise they use system GMM techniques by using xtbond2 in stata and compare the estimates with the fixed effects estimates \
+- the robustness check confirms here that the baseline results are consistent with the GMM estimates, proving that the Nickell bias is marginal in this context\
+Quantile regression\
+- quantile regression helps to examine the effects of macro prudential policy on the whole distribution of macro-financial variables, instead of focusing on average effects in the baseline model \
+- these results could indicate whether the policy is effective in reducing the probability of high credit growth \
+\ls1\ilvl0
+\f0\b Appendix 6\
+\ls1\ilvl0
+\f1\b0 Baseline AIPW estimation\
+- in section 4 they use a propensity-score based approach \
+- they chose the Augmented Inverse-Propensity-Score Weighted (AIPW) estimator\
+- this is the most efficient estimator in the class of double robust estimators}
