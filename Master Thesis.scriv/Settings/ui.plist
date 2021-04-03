@@ -12,8 +12,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {238, 991}}</string>
-		<string>{{239, 0}, {1441, 991}}</string>
+		<string>{{0, 0}, {190, 877}}</string>
+		<string>{{191, 0}, {1152, 877}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -177,8 +177,8 @@
 	</data>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1441, 480}}</string>
-		<string>{{0, 481}, {1441, 480}}</string>
+		<string>{{0, 0}, {1152, 480}}</string>
+		<string>{{0, 481}, {1152, 366}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>0</integer>
@@ -219,7 +219,7 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {336, 981}}</string>
+		<string>{{0, 0}, {336, 867}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -273,7 +273,7 @@
 	<key>mainDocumentView</key>
 	<string>mainDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>542 120 1343 905 0 0 1680 1025 </string>
+	<string>337 120 1343 905 0 0 1680 1025 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -338,6 +338,6 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
-	<true/>
+	<false/>
 </dict>
 </plist>
