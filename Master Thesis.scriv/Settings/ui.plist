@@ -12,8 +12,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {190, 877}}</string>
-		<string>{{191, 0}, {1152, 877}}</string>
+		<string>{{0, 0}, {177, 841}}</string>
+		<string>{{178, 0}, {1262, 841}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -26,6 +26,21 @@
 	</array>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
+		<key>09E2354A-8F71-4891-A212-C0F06AF97096</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>2411421C-2CDB-4DD4-950D-38F00FDE0DE9</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>26FBCBC5-CDBD-4B94-B7BB-1D028256A9F7</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>2A0A0D79-256A-4DC9-ABAD-32848213F6C8</key>
 		<dict>
 			<key>Row</key>
@@ -46,7 +61,27 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>430D904A-6815-42ED-AEDD-C41CCA33B7EC</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>44C247FD-0485-4255-8630-DBA417B2EDDE</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>47A791E2-C287-445C-A521-ADE86EF10A4E</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>48A5DCAC-11AA-434A-8DE1-F5C293BE283A</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>4B682295-BCB6-44FB-A445-0EAC1E6806AF</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -66,6 +101,16 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>579FC767-7CAC-4021-8A13-29C982535620</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>613E6E56-58BE-4904-BF53-990768B2FD54</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>62FE5B5B-966F-42D3-8EEF-90B64069337C</key>
 		<dict>
 			<key>Row</key>
@@ -76,12 +121,37 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>6D5D71B4-4481-40CF-B756-191B6F895156</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>7432931F-6F39-463F-A4B7-A9C9C511BF7C</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>7451A5C3-63EA-48E4-A423-ED81AFD92707</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>791931BB-9EF7-4FC4-9AFF-8C7616F9B990</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>7B892434-189A-4928-98A7-22F738076961</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>7C8D6712-D84B-4246-B5C3-CD7C513A6967</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>86FFF2AE-80ED-487D-9C96-AB6824CB3549</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -92,6 +162,16 @@
 			<integer>-1</integer>
 		</dict>
 		<key>98773CEC-5555-4ED3-B4EB-27F5F62D40A3</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>A0309478-DAE2-49EF-AA82-03197E63F567</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>A0AEABBD-08D3-4911-BD81-94904810EE7B</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -121,12 +201,37 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>B360361C-4AEA-4E29-B9E9-81D6844A37D0</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>B6E99E59-7379-4E87-A7D9-C1BEE8278007</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>C179F1A2-723D-4814-94F9-405DF9868E62</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>C3054D75-2FD8-4661-92E9-DE45578E24B5</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>C47D9B48-E0A7-427B-A6AB-9951DAAC6D4B</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>C4C76309-5D75-4757-A5CF-91ECB10F489A</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>C5DEF277-4E94-4776-AB63-034AD54D7EDA</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -141,12 +246,22 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>E5E40CD4-20C7-4D83-9E27-FECAF161BFA4</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>E9672D7F-515B-4C1D-AEFC-863EBF97127B</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
 		<key>EFE4B5C5-F2EE-461E-A960-25F66B09BCF2</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>F2460980-8F77-4E6F-8640-EFCAE95D0B24</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -177,8 +292,8 @@
 	</data>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1152, 480}}</string>
-		<string>{{0, 481}, {1152, 366}}</string>
+		<string>{{0, 0}, {1034, 406}}</string>
+		<string>{{0, 407}, {1034, 404}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>0</integer>
@@ -219,7 +334,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {336, 867}}</string>
+		<string>{{0, 0}, {1034, 811}}</string>
+		<string>{{1035, 0}, {227, 811}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -228,7 +344,7 @@
 	<key>mainDocumentEditor.PDFAutoScales</key>
 	<false/>
 	<key>mainDocumentEditor.PDFScale</key>
-	<real>2.3234038352966309</real>
+	<real>2.1722688674926758</real>
 	<key>mainDocumentEditor.binderDocuments</key>
 	<array>
 		<string>62FE5B5B-966F-42D3-8EEF-90B64069337C</string>
@@ -262,7 +378,7 @@
 		<string>totalProgress</string>
 	</array>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 1613.2}, {620, 339.20000000000005}}</string>
+	<string>{{0, 0}, {620, 604}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{0, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -273,7 +389,7 @@
 	<key>mainDocumentView</key>
 	<string>mainDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>337 120 1343 905 0 0 1680 1025 </string>
+	<string>0 121 1440 754 0 0 1440 875 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -283,7 +399,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>228</real>
+			<real>200</real>
 		</dict>
 	</dict>
 	<key>showInvisibles</key>
@@ -295,7 +411,7 @@
 	<key>supportingDocumentEditor.PDFAutoScales</key>
 	<false/>
 	<key>supportingDocumentEditor.PDFScale</key>
-	<real>1.5630182027816772</real>
+	<real>2.1722688674926758</real>
 	<key>supportingDocumentEditor.binderDocuments</key>
 	<array/>
 	<key>supportingDocumentEditor.currentEditorViewMode</key>
@@ -327,7 +443,7 @@
 		<string>totalProgress</string>
 	</array>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 424}}</string>
+	<string>{{0, 0}, {620, 294}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>supportingDocumentEditor.selectedItemUUIDs</key>

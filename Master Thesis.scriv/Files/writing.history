@@ -5,5 +5,24 @@
     <Day dwc="0" dcc="0" dtwc="229" owc="185" occ="1279" dtcc="1508">2021-03-30</Day>
     <Day dwc="0" dcc="0" dtwc="229" owc="543" occ="3684" dtcc="1508">2021-04-01</Day>
     <Day dwc="0" dcc="0" dtwc="229" owc="753" occ="5340" dtcc="1508">2021-04-02</Day>
-    <Day dwc="0" dcc="0" owc="1" occ="3">2021-04-03</Day>
+    <Day dwc="0" dcc="0" dtwc="229" owc="192" occ="1314" dtcc="1508">2021-04-03</Day>
+    <Day dwc="117" dcc="831" dtwc="346" owc="393" occ="2693" dtcc="2339">2021-04-06</Day>
+    <Day dwc="0" dcc="0" dtwc="346" owc="635" occ="3931" dtcc="2339">2021-04-07</Day>
+    <Day dwc="0" dcc="0" dtwc="346" owc="22" occ="152" dtcc="2339">2021-04-08</Day>
+    <Day dwc="0" dcc="0" dtwc="346" owc="715" occ="4673" dtcc="2339">2021-04-09</Day>
+    <Day dwc="0" dcc="0" dtwc="346" owc="365" occ="2329" dtcc="2339">2021-04-10</Day>
+    <Day dwc="295" dcc="1857" dtwc="641" owc="600" occ="4080" dtcc="4196">2021-04-11</Day>
+    <Day dwc="87" dcc="633" dtwc="728" owc="191" occ="1277" dtcc="4829">2021-04-14</Day>
+    <Day dwc="0" dcc="0" dtwc="728" owc="433" occ="2805" dtcc="4829">2021-04-15</Day>
+    <Day dwc="0" dcc="0" owc="5" occ="28">2021-04-17</Day>
+    <Day dwc="292" dcc="1878" dtwc="1020" owc="38" occ="338" dtcc="6707">2021-04-18</Day>
+    <Day dwc="-51" dcc="-305" dtwc="969" owc="93" occ="614" dtcc="6402">2021-04-19</Day>
+    <Day dwc="36" dcc="249" dtwc="1005" owc="1320" occ="8274" dtcc="6651">2021-04-20</Day>
+    <Day dwc="0" dcc="0" owc="14" occ="114">2021-04-21</Day>
+    <Day dwc="160" dcc="1040" dtwc="1357" owc="0" occ="0" dtcc="8881">2021-04-24</Day>
+    <Day dwc="14" dcc="101" dtwc="1371" owc="0" occ="0" dtcc="8982">2021-04-26</Day>
+    <Day dwc="-111" dcc="-675" dtwc="1260" owc="188" occ="1175" dtcc="8307">2021-04-27</Day>
+    <Day dwc="1099" dcc="6860" dtwc="1681" owc="46" occ="330" dtcc="10779">2021-04-28</Day>
+    <Day dwc="0" dcc="0" dtwc="1681" owc="168" occ="1267" dtcc="10779">2021-04-29</Day>
+    <Day dwc="0" dcc="1" owc="0" occ="0">2021-04-30</Day>
 </WritingHistory>
